@@ -1,0 +1,17 @@
+.color-left{
+    background-color: tan;
+    color:navy;
+    font-size:19px;
+    text-decoration: underline yellow;
+}
+.color-middle{
+    background-color: rgba(12, 155, 24, 0.322);
+    color:rgba(245, 105, 24, 0.986);
+    font-size:20px;
+    
+}
+.color-right{
+    background-color: rgba(250, 215, 17, 0.568);
+    color:rgba(243, 13, 140, 0.911);
+    font-size:20px;
+}
